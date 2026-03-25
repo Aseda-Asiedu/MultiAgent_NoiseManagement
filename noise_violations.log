@@ -1,0 +1,157 @@
+[2026-03-25 20:43:08] ALERT: Lecture Hall reached 77dB at 23:00
+[2026-03-25 20:43:14] ALERT: Library reached 61dB at 12:00
+[2026-03-25 20:43:20] ALERT: Hostel reached 62dB at 23:00
+[2026-03-25 20:43:23] ALERT: Hostel reached 59dB at 21:00
+[2026-03-25 20:43:35] ALERT: Hostel reached 77dB at 0:00
+[2026-03-25 20:43:38] ALERT: Co-working reached 78dB at 7:00
+[2026-03-25 20:46:32] ALERT: Hostel reached 52dB at 3:00
+[2026-03-25 20:46:44] ALERT: Library reached 87dB at 6:00
+[2026-03-25 20:46:50] ALERT: Library reached 51dB at 9:00
+[2026-03-25 20:48:11] ALERT: Lecture Hall reached 75dB at 2:00
+[2026-03-25 20:48:38] ALERT: Co-working reached 89dB at 2:00
+[2026-03-25 20:48:44] ALERT: Hostel reached 74dB at 18:00
+[2026-03-25 20:48:47] ALERT: Library reached 54dB at 7:00
+[2026-03-25 20:48:53] ALERT: Hostel reached 84dB at 1:00
+[2026-03-25 20:48:56] ALERT: Lecture Hall reached 72dB at 19:00
+[2026-03-25 20:49:02] ALERT: Library reached 56dB at 5:00
+[2026-03-25 20:49:11] ALERT: Lecture Hall reached 85dB at 12:00
+[2026-03-25 20:50:50] ALERT: Hostel reached 65dB at 21:00
+[2026-03-25 20:50:53] ALERT: Hostel reached 76dB at 19:00
+[2026-03-25 20:51:14] ALERT: Library reached 54dB at 5:00
+[2026-03-25 20:51:26] ALERT: Hostel reached 66dB at 6:00
+[2026-03-25 20:51:29] ALERT: Lecture Hall reached 74dB at 14:00
+[2026-03-25 20:51:47] ALERT: Library reached 62dB at 1:00
+[2026-03-25 20:51:50] ALERT: Hostel reached 55dB at 4:00
+[2026-03-25 20:51:56] ALERT: Library reached 54dB at 10:00
+[2026-03-25 20:52:05] ALERT: Library reached 50dB at 23:00
+[2026-03-25 20:52:08] ALERT: Hostel reached 60dB at 15:00
+[2026-03-25 20:52:14] ALERT: Library reached 78dB at 5:00
+[2026-03-25 20:52:17] ALERT: Library reached 53dB at 14:00
+[2026-03-25 20:52:23] ALERT: Hostel reached 61dB at 18:00
+[2026-03-25 20:52:26] ALERT: Library reached 70dB at 11:00
+[2026-03-25 20:52:32] ALERT: Lecture Hall reached 78dB at 10:00
+[2026-03-25 20:52:35] ALERT: Hostel reached 65dB at 7:00
+[2026-03-25 20:52:38] ALERT: Hostel reached 67dB at 3:00
+[2026-03-25 20:52:44] ALERT: Lecture Hall reached 86dB at 9:00
+[2026-03-25 20:52:47] ALERT: Hostel reached 85dB at 23:00
+[2026-03-25 20:52:50] ALERT: Hostel reached 66dB at 12:00
+[2026-03-25 20:52:53] ALERT: Hostel reached 71dB at 17:00
+[2026-03-25 20:52:56] ALERT: Lecture Hall reached 77dB at 12:00
+[2026-03-25 20:53:02] ALERT: Library reached 85dB at 17:00
+[2026-03-25 20:53:17] ALERT: Lecture Hall reached 84dB at 18:00
+[2026-03-25 20:53:29] ALERT: Lecture Hall reached 84dB at 23:00
+[2026-03-25 20:53:32] ALERT: Co-working reached 81dB at 20:00
+[2026-03-25 20:53:41] ALERT: Co-working reached 76dB at 21:00
+[2026-03-25 20:53:47] ALERT: Hostel reached 61dB at 15:00
+[2026-03-25 20:53:50] ALERT: Hostel reached 51dB at 19:00
+[2026-03-25 20:53:53] ALERT: Library reached 88dB at 23:00
+[2026-03-25 20:54:05] ALERT: Hostel reached 75dB at 11:00
+[2026-03-25 20:54:08] ALERT: Hostel reached 67dB at 12:00
+[2026-03-25 20:54:14] ALERT: Library reached 73dB at 2:00
+[2026-03-25 20:54:26] ALERT: Library reached 78dB at 9:00
+[2026-03-25 20:54:29] ALERT: Co-working reached 83dB at 23:00
+[2026-03-25 20:54:38] ALERT: Hostel reached 90dB at 23:00
+[2026-03-25 20:54:41] ALERT: Lecture Hall reached 73dB at 4:00
+[2026-03-25 20:54:44] ALERT: Hostel reached 80dB at 5:00
+[2026-03-25 20:54:53] ALERT: Library reached 58dB at 16:00
+[2026-03-25 20:54:56] ALERT: Co-working reached 82dB at 17:00
+[2026-03-25 20:54:59] ALERT: Co-working reached 84dB at 6:00
+[2026-03-25 20:55:02] ALERT: Library reached 89dB at 21:00
+[2026-03-25 20:55:14] ALERT: Library reached 62dB at 14:00
+[2026-03-25 20:55:17] ALERT: Lecture Hall reached 86dB at 1:00
+[2026-03-25 20:55:20] ALERT: Library reached 77dB at 7:00
+[2026-03-25 20:55:41] ALERT: Hostel reached 65dB at 6:00
+[2026-03-25 20:55:50] ALERT: Library reached 57dB at 3:00
+[2026-03-25 20:55:59] ALERT: Co-working reached 76dB at 1:00
+[2026-03-25 20:56:14] ALERT: Library reached 60dB at 12:00
+[2026-03-25 20:56:26] ALERT: Library reached 72dB at 18:00
+[2026-03-25 20:56:29] ALERT: Hostel reached 64dB at 12:00
+[2026-03-25 20:56:41] ALERT: Library reached 85dB at 5:00
+[2026-03-25 20:56:53] ALERT: Library reached 49dB at 14:00
+[2026-03-25 20:57:08] ALERT: Library reached 57dB at 18:00
+[2026-03-25 20:57:14] ALERT: Library reached 87dB at 3:00
+[2026-03-25 20:57:17] ALERT: Hostel reached 63dB at 3:00
+[2026-03-25 20:57:23] ALERT: Lecture Hall reached 89dB at 19:00
+[2026-03-25 20:57:32] ALERT: Co-working reached 87dB at 17:00
+[2026-03-25 20:57:41] ALERT: Lecture Hall reached 86dB at 5:00
+[2026-03-25 20:57:47] ALERT: Co-working reached 83dB at 9:00
+[2026-03-25 20:57:53] ALERT: Lecture Hall reached 74dB at 16:00
+[2026-03-25 20:57:56] ALERT: Co-working reached 77dB at 23:00
+[2026-03-25 20:58:02] ALERT: Lecture Hall reached 79dB at 7:00
+[2026-03-25 20:58:26] ALERT: Hostel reached 74dB at 0:00
+[2026-03-25 20:58:38] ALERT: Library reached 87dB at 22:00
+[2026-03-25 20:58:53] ALERT: Library reached 47dB at 1:00
+[2026-03-25 20:58:56] ALERT: Hostel reached 65dB at 22:00
+[2026-03-25 20:58:59] ALERT: Hostel reached 60dB at 3:00
+[2026-03-25 20:59:14] ALERT: Co-working reached 89dB at 16:00
+[2026-03-25 20:59:20] ALERT: Library reached 52dB at 9:00
+[2026-03-25 20:59:26] ALERT: Hostel reached 63dB at 11:00
+[2026-03-25 20:59:32] ALERT: Hostel reached 70dB at 13:00
+[2026-03-25 20:59:45] ALERT: Lecture Hall reached 85dB at 6:00
+[2026-03-25 20:59:54] ALERT: Lecture Hall reached 90dB at 17:00
+[2026-03-25 21:00:03] ALERT: Lecture Hall reached 77dB at 21:00
+[2026-03-25 21:00:18] ALERT: Co-working reached 78dB at 22:00
+[2026-03-25 21:00:39] ALERT: Library reached 78dB at 10:00
+[2026-03-25 21:00:42] ALERT: Hostel reached 81dB at 4:00
+[2026-03-25 21:00:54] ALERT: Hostel reached 68dB at 19:00
+[2026-03-25 21:00:57] ALERT: Library reached 46dB at 19:00
+[2026-03-25 21:01:00] ALERT: Library reached 77dB at 1:00
+[2026-03-25 21:01:03] ALERT: Co-working reached 85dB at 2:00
+[2026-03-25 21:01:09] ALERT: Co-working reached 84dB at 22:00
+[2026-03-25 21:01:12] ALERT: Library reached 53dB at 13:00
+[2026-03-25 21:01:24] ALERT: Hostel reached 54dB at 5:00
+[2026-03-25 21:01:27] ALERT: Hostel reached 71dB at 7:00
+[2026-03-25 21:01:30] ALERT: Library reached 51dB at 17:00
+[2026-03-25 21:01:39] ALERT: Hostel reached 53dB at 20:00
+[2026-03-25 21:01:48] ALERT: Hostel reached 81dB at 14:00
+[2026-03-25 21:01:54] ALERT: Library reached 54dB at 2:00
+[2026-03-25 21:01:57] ALERT: Hostel reached 78dB at 5:00
+[2026-03-25 21:02:03] ALERT: Library reached 67dB at 22:00
+[2026-03-25 21:02:09] ALERT: Hostel reached 54dB at 23:00
+[2026-03-25 21:02:12] ALERT: Library reached 58dB at 11:00
+[2026-03-25 21:02:27] ALERT: Lecture Hall reached 90dB at 15:00
+[2026-03-25 21:02:36] ALERT: Library reached 88dB at 15:00
+[2026-03-25 21:02:42] ALERT: Lecture Hall reached 74dB at 7:00
+[2026-03-25 21:02:45] ALERT: Hostel reached 52dB at 5:00
+[2026-03-25 21:02:51] ALERT: Co-working reached 83dB at 10:00
+[2026-03-25 21:02:57] ALERT: Hostel reached 78dB at 20:00
+[2026-03-25 21:03:06] ALERT: Library reached 68dB at 1:00
+[2026-03-25 21:03:12] ALERT: Lecture Hall reached 82dB at 18:00
+[2026-03-25 21:03:15] ALERT: Hostel reached 53dB at 3:00
+[2026-03-25 21:03:18] ALERT: Library reached 66dB at 7:00
+[2026-03-25 21:03:21] ALERT: Hostel reached 71dB at 8:00
+[2026-03-25 21:03:27] ALERT: Library reached 69dB at 12:00
+[2026-03-25 21:03:36] ALERT: Library reached 53dB at 13:00
+[2026-03-25 21:03:39] ALERT: Co-working reached 90dB at 19:00
+[2026-03-25 21:03:51] ALERT: Lecture Hall reached 82dB at 4:00
+[2026-03-25 21:03:54] ALERT: Library reached 57dB at 0:00
+[2026-03-25 21:04:06] ALERT: Lecture Hall reached 81dB at 14:00
+[2026-03-25 21:04:09] ALERT: Hostel reached 90dB at 23:00
+[2026-03-25 21:04:12] ALERT: Hostel reached 56dB at 6:00
+[2026-03-25 21:04:18] ALERT: Library reached 66dB at 20:00
+[2026-03-25 21:18:41] CRITICAL: Hostel - 53dB at 8:00
+[2026-03-25 21:19:01] CRITICAL: Hostel - 53dB at 5:00
+[2026-03-25 21:19:21] CRITICAL: Library - 46dB at 9:00
+[2026-03-25 21:19:29] CRITICAL: Library - 64dB at 22:00
+[2026-03-25 21:19:37] CRITICAL: Hostel - 52dB at 20:00
+[2026-03-25 21:19:41] CRITICAL: Library - 56dB at 17:00
+[2026-03-25 21:19:45] CRITICAL: Library - 69dB at 5:00
+[2026-03-25 21:19:49] CRITICAL: Library - 69dB at 15:00
+[2026-03-25 21:20:01] CRITICAL: Library - 73dB at 3:00
+[2026-03-25 21:20:05] CRITICAL: Hostel - 76dB at 22:00
+[2026-03-25 21:20:25] CRITICAL: Hostel - 61dB at 14:00
+[2026-03-25 21:20:29] CRITICAL: Hostel - 64dB at 2:00
+[2026-03-25 21:45:45] CRITICAL: Hostel - 77dB at 3:00
+[2026-03-25 21:46:01] CRITICAL: Co-working - 85dB at 1:00
+[2026-03-25 21:47:11] CRITICAL: Hostel - 60dB at 9:00
+[2026-03-25 21:47:23] CRITICAL: Lecture Hall - 84dB at 1:00
+[2026-03-25 21:47:39] CRITICAL: Hostel - 69dB at 5:00
+[2026-03-25 21:47:43] CRITICAL: Library - 71dB at 13:00
+[2026-03-25 21:48:15] CRITICAL: Lecture Hall - 72dB at 10:00
+[2026-03-25 21:48:19] CRITICAL: Hostel - 73dB at 23:00
+[2026-03-25 21:48:27] CRITICAL: Library - 88dB at 16:00
+[2026-03-25 21:48:31] CRITICAL: Lecture Hall - 78dB at 14:00
+[2026-03-25 21:48:43] CRITICAL: Hostel - 58dB at 9:00
+[2026-03-25 21:48:51] CRITICAL: Library - 78dB at 17:00
+[2026-03-25 21:48:55] CRITICAL: Lecture Hall - 83dB at 22:00
+[2026-03-25 21:49:03] CRITICAL: Hostel - 77dB at 20:00
